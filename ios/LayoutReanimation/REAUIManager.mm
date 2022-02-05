@@ -1,7 +1,7 @@
 #import "REAUIManager.h"
 #import <Foundation/Foundation.h>
 #include "FeaturesConfig.h"
-#import "REAIOSScheduler.h"
+#import "../native/REAIOSScheduler.h"
 #include "Scheduler.h"
 
 #import <React/RCTComponentData.h>
